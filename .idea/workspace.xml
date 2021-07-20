@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8272eec9-8983-4f23-ba31-15957a2c44b5" name="Default Changelist" comment="start">
+    <list default="true" id="8272eec9-8983-4f23-ba31-15957a2c44b5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/komora/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/komora/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +37,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.main (1)">
     <configuration name="defs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -163,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626770313564</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="start">
+      <created>1626770569731</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1626770569731</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -175,10 +181,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="392" y="87" key="#Menus_and_Toolbars/0.0.1600.860@0.0.1600.860" timestamp="1626770342718" />
-    <state x="454" y="23" key="CommitChangelistDialog2" timestamp="1626770351959">
+    <state x="454" y="23" key="CommitChangelistDialog2" timestamp="1626770568891">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="454" y="23" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1626770351959" />
+    <state x="454" y="23" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1626770568891" />
     <state width="1578" height="210" key="GridCell.Tab.0.bottom" timestamp="1626770524433">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -195,10 +201,14 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1578" height="210" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1626770524433" />
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1626770362098">
+    <state x="301" y="61" key="SettingsEditor" timestamp="1626770664224">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1626770362098" />
+    <state x="301" y="61" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1626770664224" />
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1626770575884">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1626770575884" />
     <state x="609" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1626770221118">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
