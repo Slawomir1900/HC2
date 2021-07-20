@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8272eec9-8983-4f23-ba31-15957a2c44b5" name="Default Changelist" comment="start">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8272eec9-8983-4f23-ba31-15957a2c44b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/komora/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/komora/sterownik1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sterownik1.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +123,21 @@
       <option name="project" value="LOCAL" />
       <updated>1609850580051</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="start">
+      <created>1626770206206</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1626770206206</updated>
+    </task>
+    <task id="LOCAL-00003" summary="start">
+      <created>1626770240075</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1626770240075</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -127,10 +145,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="start" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="454" y="23" key="CommitChangelistDialog2" timestamp="1626770205331">
+    <state x="454" y="23" key="CommitChangelistDialog2" timestamp="1626770239375">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="454" y="23" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1626770205331" />
+    <state x="454" y="23" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1626770239375" />
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1626770256125">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1626770256125" />
     <state x="609" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1626770221118">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
