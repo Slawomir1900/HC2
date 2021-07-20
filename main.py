@@ -1,28 +1,24 @@
-from tkinter import *
-from tkinter import ttk
-from defs import*
+import socket
+import time
 
-#from defs import reading
-hc=Rotronic()
-root = Tk()
-root.geometry("800x600")
-frame = Frame(root)
-frame.pack()
+HOST = '10.10.10.100'  # The server's hostname or IP address
+PORT = 2049  # The port used by the server
 
-leftframe = Frame(root)
-leftframe.pack(side=LEFT)
-memo = hc.get_humidity()
-rightframe = Frame(root)
-rightframe.pack(side=RIGHT)
-label = Label(frame, text='temp '+hc.get_temp())
-label.pack()
-szabel=Label(frame,text=memo)
-szabel.pack()
-root.title(f"HC2 - nr. ser: {hc.get_serial_number()}" )
-root.update()
+with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
+    s.connect((HOST, PORT))
+    s.sendall(b'$01E 0010.0 0030.0 0080.0 0000.0 0006.0 000000000000000000000000000000000\r')
+    #s.sendall(b'$01E 0029.0 0025.8 0080.0 0000.0 0006.0 0100.0 0000.0 01100010101010101010101010101010\r')
+
+
+while True:
+    with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
+        s.connect((HOST, PORT))
+        s.sendall(b'$01I\r')
+        data = s.recv(1024)
+        time.sleep(1)
+        print(data)
 
 
 
-root.mainloop()
 
-
+ #s.sendall(b'$01E 0026.0 0035.0 0080.0 0000.0 0000.0 0000.0 0000.0 01101010101010101010101010101010\r')
