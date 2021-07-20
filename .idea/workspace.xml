@@ -18,6 +18,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -126,45 +127,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="start" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="454" y="25" key="CommitChangelistDialog2" timestamp="1609850732510">
+    <state x="454" y="23" key="CommitChangelistDialog2" timestamp="1626770205331">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="454" y="25" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1609850732510" />
-    <state x="580" y="170" key="FileChooserDialogImpl" timestamp="1609850676029">
+    <state x="454" y="23" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1626770205331" />
+    <state x="609" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1626770221118">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="580" y="170" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1609850676029" />
-    <state x="622" y="345" key="Github.CreateGistDialog" timestamp="1609849765235">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="622" y="345" key="Github.CreateGistDialog/0.0.1600.860@0.0.1600.860" timestamp="1609849765235" />
-    <state x="670" y="322" width="260" height="274" key="Github.ShareDialog" timestamp="1609850848868">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="670" y="322" width="260" height="274" key="Github.ShareDialog/0.0.1600.860@0.0.1600.860" timestamp="1609850848868" />
-    <state width="1578" height="210" key="GridCell.Tab.0.bottom" timestamp="1609850713737">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1578" height="210" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1609850713737" />
-    <state width="1578" height="210" key="GridCell.Tab.0.center" timestamp="1609850713737">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1578" height="210" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1609850713737" />
-    <state width="1578" height="210" key="GridCell.Tab.0.left" timestamp="1609850713737">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1578" height="210" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1609850713737" />
-    <state width="1578" height="210" key="GridCell.Tab.0.right" timestamp="1609850713737">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1578" height="210" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1609850713737" />
-    <state x="301" y="61" key="SettingsEditor" timestamp="1609852604606">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="301" y="61" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1609852604606" />
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1609850621741">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1609850621741" />
+    <state x="609" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1626770221118" />
   </component>
 </project>
